@@ -1,0 +1,16 @@
+La base de datos cuenta con cinco tablas, las cuales consta de:
+
+_Tabla Entrenadores: esta tabla contiene informacion acerca de los
+directores tecnicos de la liga.
+
+_Tabla Futbolistas: esta tabla posee datos de los jugadores de futbol
+que juegan en sus respectivos equipos.
+
+_Tabla Equipos: contempla los distintos equipos que pertenecen a la
+liga.
+
+_Tabla Dirige: esta tabla relaciona a los entrenadores que dirigen
+cada equipo.
+
+_Tabla Juega: dicha tabla relaciona a los jugadores de futbol que
+se encuentran en el plantel y al equipo que pertenecen.

@@ -1,0 +1,7 @@
+La base de datos creada, muestra la informacion de una liga de futbol
+generica, la cual posee informacion acerca de los jugadores de dicha
+liga, los equipos que pertenecen a ella y los entrenadores de sus
+respectivos equipos, relacionando que entrenador dirige que equipo
+y que futbolista juega para cada equipo. La tabla esta diseñada para
+en una futura entrega, poder agregar mas informacion acerca de los
+partidos ya sea resultados, goles, tarjetas, etc.
